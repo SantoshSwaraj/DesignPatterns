@@ -124,3 +124,646 @@
 2017-04-06 23:40:23,739 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CakeFactory-DP\src\main\resources
 2017-04-06 23:40:23,741 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-04-06 23:40:23,747 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CakeFactory-DP\src\test\resources
+2017-04-07 07:20:17,871 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CarAbstractFactory-DP:CarAbstractFactory-DP:0.0.1-SNAPSHOT @ D:\DesignPatterns\CarAbstractFactory-DP\pom.xml.
+2017-04-07 07:20:30,290 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:20:30,383 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:20:30,388 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:20:30,396 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:20:30,446 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CarAbstractFactory-DP/src
+2017-04-07 07:20:30,450 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CarAbstractFactory-DP/src/test/java because it overlaps with /CarAbstractFactory-DP/src
+2017-04-07 07:20:30,980 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-07 07:20:33,972 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CarAbstractFactory-DP:CarAbstractFactory-DP:0.0.1-SNAPSHOT @ D:\DesignPatterns\CarAbstractFactory-DP\pom.xml.
+2017-04-07 07:20:34,527 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:20:34,538 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:20:34,542 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:20:34,551 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:20:35,049 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CarAbstractFactory-DP/src
+2017-04-07 07:20:35,050 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CarAbstractFactory-DP/src/test/java because it overlaps with /CarAbstractFactory-DP/src
+2017-04-07 07:20:35,223 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2017-04-07 07:20:36,038 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:20:36,047 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:20:36,049 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:20:36,058 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:21:54,005 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:21:54,155 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:21:54,157 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:21:54,169 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:22:30,346 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:22:30,354 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:22:30,356 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:22:30,366 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:23:09,806 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:23:09,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:23:09,817 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:23:09,826 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:23:38,098 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:23:38,107 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:23:38,109 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:23:38,118 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:23:49,646 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:23:49,653 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:23:49,655 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:23:49,665 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:28:13,007 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:28:13,024 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:28:13,029 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:28:13,048 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:53:20,190 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:53:20,297 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:53:20,300 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:53:20,307 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:53:48,079 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:53:48,188 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:53:48,190 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:53:48,200 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:53:57,078 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:53:57,093 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:53:57,096 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:53:57,146 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:54:33,286 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:54:33,367 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:54:33,369 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:54:33,383 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:54:56,776 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:54:56,885 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:54:56,887 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:54:56,898 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:56:26,152 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:56:26,236 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:56:26,238 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:56:26,244 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:58:23,953 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:58:24,003 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:58:24,005 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:58:24,016 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:58:41,173 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:58:41,183 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:58:41,186 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:58:41,196 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:59:03,735 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:59:03,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:59:03,754 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:59:03,806 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 07:59:59,876 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:59:59,882 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 07:59:59,884 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 07:59:59,890 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:00:30,268 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:00:30,281 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:00:30,283 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:00:30,293 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:01:33,072 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:01:33,150 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:01:33,151 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:01:33,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:02:16,247 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:02:16,254 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:02:16,256 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:02:16,262 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:03:36,243 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:03:36,334 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:03:36,336 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:03:36,342 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:03:45,457 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:03:45,463 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:03:45,465 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:03:45,471 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:04:19,437 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:19,478 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:04:19,482 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:19,489 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:04:25,542 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:25,548 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:04:25,550 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:25,555 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:04:50,903 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:50,910 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:04:50,911 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:50,918 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:04:57,041 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:57,077 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:04:57,079 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:04:57,086 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:06:27,451 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:06:27,575 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:06:27,577 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:06:27,585 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:07:27,207 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:07:27,285 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:07:27,287 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:07:27,293 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:07:47,765 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:07:47,771 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:07:47,772 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:07:47,779 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:08:05,752 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:08:05,759 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:08:05,761 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:08:05,771 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:08:19,555 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:08:19,581 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:08:19,584 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:08:19,596 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:08:32,628 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:08:32,636 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:08:32,638 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:08:32,645 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:09:39,213 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:09:39,313 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:09:39,315 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:09:39,322 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:09:57,114 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:09:57,120 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:09:57,121 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:09:57,127 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:10:13,411 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:10:13,420 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:10:13,422 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:10:13,437 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:10:37,022 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:10:37,112 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:10:37,114 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:10:37,147 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:10:52,267 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:10:52,333 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:10:52,335 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:10:52,341 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:11:01,178 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:01,187 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:11:01,189 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:01,197 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:11:27,328 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:27,356 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:11:27,358 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:27,370 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:11:39,080 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:39,123 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:11:39,125 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:39,132 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:11:45,429 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:45,436 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:11:45,438 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:11:45,445 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:12:13,264 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:12:13,285 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:12:13,287 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:12:13,297 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:12:31,194 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:12:31,201 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:12:31,203 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:12:31,209 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:12:38,920 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:12:39,053 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:12:39,054 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:12:39,060 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:13:21,988 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:13:22,053 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:13:22,054 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:13:22,062 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:14:29,348 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:14:29,417 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:14:29,418 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:14:29,427 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:14:38,994 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:14:39,002 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:14:39,004 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:14:39,010 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 08:14:53,012 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:14:53,025 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 08:14:53,028 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 08:14:53,044 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 09:42:41,036 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:42:41,118 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 09:42:41,121 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:42:41,127 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 09:45:53,977 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CarAbstractFactory-DP:CarAbstractFactory-DP:0.0.1-SNAPSHOT @ D:\DesignPatterns\CarAbstractFactory-DP\pom.xml.
+2017-04-07 09:45:55,624 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.pom
+2017-04-07 09:45:55,860 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.pom
+2017-04-07 09:45:56,063 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.jar
+2017-04-07 09:45:57,641 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.jar
+2017-04-07 09:45:59,574 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:45:59,692 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 09:45:59,695 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:45:59,701 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 09:46:01,868 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:46:01,946 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 09:46:01,948 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:46:01,955 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 09:48:01,858 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:48:01,943 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 09:48:01,944 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:48:01,951 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 09:52:08,033 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:52:08,040 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 09:52:08,042 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:52:08,048 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 09:58:49,656 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:58:49,672 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 09:58:49,674 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:58:49,684 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 09:59:53,201 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:59:53,223 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 09:59:53,225 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 09:59:53,234 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:00:12,525 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:00:12,533 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:00:12,535 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:00:12,544 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:00:37,981 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:00:37,988 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:00:37,991 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:00:37,997 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:01:22,383 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:01:22,393 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:01:22,395 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:01:22,405 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:01:55,121 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:01:55,132 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:01:55,134 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:01:55,151 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:02:05,583 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:02:05,590 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:02:05,592 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:02:05,600 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:02:15,394 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:02:15,402 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:02:15,404 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:02:15,412 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:02:33,203 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:02:33,210 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:02:33,211 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:02:33,220 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:04:05,877 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:04:05,984 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:04:05,986 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:04:05,994 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:05:42,544 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:05:42,644 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:05:42,646 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:05:42,653 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:07:45,801 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:07:45,885 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:07:45,889 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:07:45,898 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:08:44,295 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:08:44,302 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:08:44,304 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:08:44,311 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:08:56,061 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:08:56,067 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:08:56,069 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:08:56,077 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:10:08,252 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:08,347 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:10:08,349 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:08,358 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:10:21,247 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:21,268 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:10:21,270 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:21,279 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:10:36,631 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:36,637 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:10:36,638 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:36,645 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:10:44,118 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:44,125 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:10:44,126 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:10:44,134 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:11:00,207 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:11:00,301 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:11:00,303 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:11:00,312 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:11:48,453 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:11:48,533 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:11:48,535 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:11:48,543 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:12:25,381 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:12:25,388 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:12:25,390 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:12:25,398 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:13:14,169 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:13:14,254 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:13:14,256 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:13:14,262 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:13:35,183 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:13:35,275 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:13:35,276 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:13:35,284 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:14:08,770 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:14:08,862 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:14:08,864 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:14:08,870 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:14:54,336 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:14:54,419 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:14:54,420 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:14:54,427 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:15:06,086 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:15:06,183 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:15:06,244 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:15:06,271 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:15:44,408 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:15:44,497 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:15:44,510 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:15:44,517 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:16:42,928 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:16:43,014 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:16:43,015 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:16:43,022 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:17:25,460 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:17:25,470 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:17:25,471 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:17:25,516 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:18:14,099 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:18:14,105 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:18:14,107 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:18:14,117 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:18:54,187 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:18:54,195 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:18:54,196 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:18:54,205 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:22:51,246 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:22:51,324 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:22:51,326 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:22:51,332 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:23:02,363 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:23:02,371 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:23:02,373 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:23:02,378 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:23:22,395 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:23:22,403 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:23:22,405 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:23:22,415 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:24:11,009 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:24:11,016 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:24:11,017 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:24:11,023 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:24:15,846 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:24:15,863 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:24:15,865 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:24:15,874 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:24:25,226 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:24:25,233 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:24:25,234 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:24:25,240 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:25:00,426 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:25:00,433 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:25:00,434 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:25:00,442 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:25:37,867 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:25:37,875 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:25:37,877 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:25:37,885 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:26:07,214 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:26:07,221 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:26:07,222 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:26:07,229 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:26:36,470 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:26:36,478 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:26:36,480 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:26:36,488 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:27:19,453 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:27:19,459 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:27:19,461 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:27:19,467 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:27:57,667 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:27:57,674 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:27:57,676 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:27:57,684 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:29:26,955 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:29:26,961 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:29:26,962 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:29:26,972 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:32:41,595 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:32:41,677 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:32:41,679 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:32:41,688 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 10:38:07,495 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:38:07,576 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 10:38:07,578 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 10:38:07,585 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:03:21,255 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:03:21,357 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:03:21,359 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:03:21,366 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:03:35,250 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:03:35,342 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:03:35,344 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:03:35,351 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:10:22,990 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:10:23,065 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:10:23,066 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:10:23,072 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:11:33,714 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:11:33,796 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:11:33,797 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:11:33,805 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:13:02,442 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:13:02,538 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:13:02,539 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:13:02,547 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:13:06,932 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:13:06,938 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:13:06,940 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:13:06,946 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:14:01,637 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:14:01,644 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:14:01,645 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:14:01,653 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:16:10,013 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:16:10,019 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:16:10,022 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:16:10,029 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:17:29,712 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:17:29,719 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:17:29,720 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:17:29,727 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:19:13,719 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:19:13,730 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:19:13,732 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:19:13,742 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:21:25,459 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:21:25,533 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:21:25,534 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:21:25,540 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:39:22,873 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:39:22,959 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:39:22,961 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:39:22,967 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 11:42:33,771 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:42:33,871 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\main\resources
+2017-04-07 11:42:33,873 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 11:42:33,879 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\CarAbstractFactory-DP\src\test\resources
+2017-04-07 12:48:55,899 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Singleton_lazy-init-DP:Singleton_lazy-init-DP:0.0.1-SNAPSHOT @ D:\DesignPatterns\Singleton_lazy-init-DP\pom.xml.
+2017-04-07 12:48:57,028 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Singleton_lazy-init-DP/src
+2017-04-07 12:48:57,029 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Singleton_lazy-init-DP/src/test/java because it overlaps with /Singleton_lazy-init-DP/src
+2017-04-07 12:48:57,624 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:48:57,933 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton_lazy-init-DP\src\main\resources
+2017-04-07 12:48:57,936 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:48:57,945 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton_lazy-init-DP\src\test\resources
+2017-04-07 12:48:58,265 [Worker-75] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-07 12:48:58,720 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Singleton_lazy-init-DP:Singleton_lazy-init-DP:0.0.1-SNAPSHOT @ D:\DesignPatterns\Singleton_lazy-init-DP\pom.xml.
+2017-04-07 12:48:59,195 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:48:59,201 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton_lazy-init-DP\src\main\resources
+2017-04-07 12:48:59,204 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:48:59,212 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton_lazy-init-DP\src\test\resources
+2017-04-07 12:48:59,282 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Singleton_lazy-init-DP/src
+2017-04-07 12:48:59,283 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Singleton_lazy-init-DP/src/test/java because it overlaps with /Singleton_lazy-init-DP/src
+2017-04-07 12:48:59,822 [Worker-75] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-04-07 12:49:00,326 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:49:00,332 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton_lazy-init-DP\src\main\resources
+2017-04-07 12:49:00,344 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:49:00,351 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton_lazy-init-DP\src\test\resources
+2017-04-07 12:54:33,939 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Singleton_lazy-init-DP:Singleton_lazy-init-DP:0.0.1-SNAPSHOT @ D:\DesignPatterns\Singleton-DP\pom.xml.
+2017-04-07 12:54:35,074 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:54:35,191 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 12:54:35,193 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:54:35,199 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 12:54:56,586 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:54:56,672 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 12:54:56,673 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:54:56,680 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 12:55:42,016 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:55:42,113 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 12:55:42,115 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:55:42,122 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 12:58:19,004 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:58:19,097 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 12:58:19,100 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 12:58:19,108 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:00:18,952 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:00:19,085 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:00:19,088 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:00:19,095 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:01:10,655 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:01:10,761 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:01:10,779 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:01:10,788 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:01:54,389 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:01:54,471 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:01:54,473 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:01:54,479 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:02:13,134 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:02:13,145 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:02:13,147 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:02:13,195 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:04:02,413 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:02,424 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:04:02,426 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:02,434 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:04:21,557 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:21,567 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:04:21,569 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:21,580 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:04:42,312 [Worker-80] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Singleton_lazy-init-DP:Singleton_lazy-init-DP:0.0.1-SNAPSHOT @ D:\DesignPatterns\Singleton-DP\pom.xml.
+2017-04-07 13:04:42,600 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:42,608 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:04:42,620 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:42,629 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:04:43,829 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:43,839 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:04:43,842 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:04:43,866 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:07:35,210 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:07:35,346 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:07:35,351 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:07:35,360 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:10:06,175 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:10:06,195 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:10:06,196 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:10:06,202 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:10:22,010 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:10:22,017 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:10:22,018 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:10:22,024 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:11:58,655 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:11:58,672 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:11:58,674 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:11:58,682 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:13:14,288 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:13:14,295 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:13:14,297 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:13:14,303 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 13:13:23,784 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:13:23,791 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 13:13:23,793 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 13:13:23,800 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:03:14,044 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:03:14,225 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:03:14,227 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:03:14,233 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:06:15,059 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:06:15,247 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:06:15,248 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:06:15,271 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:06:19,955 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:06:19,961 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:06:19,995 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:06:20,002 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:06:26,746 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:06:26,753 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:06:26,754 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:06:26,761 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:07:23,206 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:07:23,323 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:07:23,324 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:07:23,329 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:07:50,244 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:07:50,250 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:07:50,252 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:07:50,259 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:09:11,129 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:09:11,297 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:09:11,298 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:09:11,304 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:10:46,184 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:10:46,319 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:10:46,324 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:10:46,330 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:12:11,220 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:12:11,360 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:12:11,361 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:12:11,369 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:36:51,420 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:36:51,549 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:36:51,551 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:36:51,558 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:37:05,842 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:37:05,960 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:37:05,961 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:37:05,967 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:38:06,578 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:38:06,714 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:38:06,715 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:38:06,721 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:38:23,249 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:38:23,301 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:38:23,302 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:38:23,308 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:39:01,096 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:39:01,245 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:39:01,246 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:39:01,252 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:39:12,716 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:39:12,725 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:39:12,726 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:39:12,733 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:40:13,155 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:40:13,276 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:40:13,278 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:40:13,284 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:40:27,140 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:40:27,147 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:40:27,156 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:40:27,162 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:41:52,496 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:41:52,630 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:41:52,631 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:41:52,636 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:41:57,541 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:41:57,547 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:41:57,548 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:41:57,554 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources
+2017-04-07 15:44:55,849 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:44:55,856 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\main\resources
+2017-04-07 15:44:55,857 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-07 15:44:55,866 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DesignPatterns\Singleton-DP\src\test\resources

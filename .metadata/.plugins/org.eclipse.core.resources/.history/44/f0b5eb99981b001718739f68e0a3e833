@@ -1,0 +1,12 @@
+package main.model;
+
+import main.model.Wolf;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		Wolf wolf = new Wolf();
+
+	}
+
+}

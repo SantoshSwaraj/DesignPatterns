@@ -1,0 +1,36 @@
+package main.test;
+
+import main.model.Animal;
+import main.model.Wolf;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		Wolf wolf = new Wolf();
+		
+		long startTime = System.nanoTime();
+		//demonstrate(wolf);
+		demonstrateNew(wolf);	
+		
+		System.out.println("Running time :"+(System.nanoTime()-startTime));
+		 
+	}
+	private static void demonstrate(Animal animal) {
+		System.out.println("Original Animal Object hashcode :"+animal.hashCode());
+		for(int i=0; i<10; i++){
+			Animal clonedAnimal = (Animal)animal.createClone();
+			System.out.println("Cloned name :"+clonedAnimal.getName()+" "+"Class Name : "+clonedAnimal.getClass());
+			System.out.println("Cloned Animal Object hashcode : "+clonedAnimal.hashCode());
+		}
+		
+	}
+	
+	private static void demonstrateNew(Wolf wolf){
+		System.out.println("Original Wolf Object hashcode : "+wolf.hashCode());
+		for(int i=0; i<10; i++){
+			Wolf wolf1 = new Wolf();
+			System.out.println("Name : "+wolf1.getName()+" "+"Class Name :"+wolf1.getClass());
+			System.out.println("Animal object hashcode : "+wolf1.hashCode());
+		}
+	}
+}

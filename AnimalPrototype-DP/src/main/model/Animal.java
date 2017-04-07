@@ -1,0 +1,6 @@
+package main.model;
+
+public interface Animal extends Cloneable {
+	Animal createClone();
+	String getName();
+}

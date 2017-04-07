@@ -1,0 +1,20 @@
+package main.test;
+
+import main.model.Wolf;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		Wolf wolf = new Wolf();
+		//Perform operation on Wolf Object.
+		//Needed a wolf object again.
+		
+		demonstrate(wolf);
+		//demonstrateNew(wolf);
+
+	private static void demonstrate(Animal animal) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

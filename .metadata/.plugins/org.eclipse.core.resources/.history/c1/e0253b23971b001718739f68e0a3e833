@@ -1,0 +1,7 @@
+package main.model;
+
+public interface Animal {
+	Animal createClone();
+	String getName();
+
+}

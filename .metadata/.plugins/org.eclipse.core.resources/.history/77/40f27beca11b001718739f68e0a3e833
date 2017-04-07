@@ -1,0 +1,25 @@
+package main.test;
+
+import main.model.Animal;
+import main.model.Wolf;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		Wolf wolf = new Wolf();
+		demonstrate(wolf);
+		
+		private static void demostrate(Animal animal){
+			System.out.println("Original Animal object hashcode :"+animal.hashCode());
+			
+		}
+		
+
+
+	}
+
+	private static void demonstrate(Animal animal) {
+		// TODO Auto-generated method stub
+		
+	}
+}

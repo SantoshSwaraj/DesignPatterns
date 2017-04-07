@@ -1,0 +1,15 @@
+package main.model;
+
+public class Wolf implements Animal {
+	private String name="Default";
+
+	public Wolf() {
+		try{
+			Thread.sleep(1*1000);
+		}
+		catch(InterruptedException e){
+			e.printStackTrace();
+		}
+	}
+	
+}

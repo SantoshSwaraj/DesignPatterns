@@ -1,0 +1,21 @@
+package main.test;
+
+import org.junit.Before;
+
+import main.singleton.Singleton_lazy_init;
+public class SingletonTest {
+	
+	@Before
+	public void setup(){
+		
+	}
+	
+	@org.junit.Test
+	public void Test(){
+		Singleton_lazy_init instance = Singleton_lazy_init.getInstance();
+		System.out.println("InstanceAddress:"+instance);
+		System.out.println("===========================================");
+		Singleton_lazy_init instance1 = Singleton_lazy_init.getInstance();
+		System.out.println("InstanceAddress:"+instance1 );
+	}
+}

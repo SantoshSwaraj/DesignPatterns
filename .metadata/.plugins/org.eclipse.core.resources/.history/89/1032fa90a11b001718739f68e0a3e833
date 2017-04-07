@@ -1,0 +1,15 @@
+package main.test;
+
+import main.model.Animal;
+import main.model.Wolf;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		Wolf wolf = new Wolf();
+		demonstrate(wolf);
+		
+
+
+	}
+}
