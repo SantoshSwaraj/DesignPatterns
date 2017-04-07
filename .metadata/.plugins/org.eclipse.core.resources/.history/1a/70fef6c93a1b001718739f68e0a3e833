@@ -1,0 +1,5 @@
+package main.honda;
+
+public class Mobilio extends MUVCar {
+
+}

@@ -1,0 +1,5 @@
+package main.abstractModel;
+
+public class Sedan {
+
+}

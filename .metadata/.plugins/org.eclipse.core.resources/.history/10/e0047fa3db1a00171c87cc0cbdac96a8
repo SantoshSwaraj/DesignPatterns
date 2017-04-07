@@ -1,0 +1,9 @@
+package main.model;
+
+public class Pineapple extends Cake {
+	public Pineapple(){
+		this.name="Pineapple";
+		this.type="Ctype";
+		this.price=225;
+	}
+}

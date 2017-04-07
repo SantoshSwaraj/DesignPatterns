@@ -1,0 +1,11 @@
+package main.singleton;
+
+public class Singleton_lazy_init {
+	private Singleton_lazy_init instance;
+	private Singleton_lazy_init(){}
+	public static sychronized Singleton_lazy_init getInstance(){
+		if(instance==null){
+			instance=new Single
+		}
+	}
+}

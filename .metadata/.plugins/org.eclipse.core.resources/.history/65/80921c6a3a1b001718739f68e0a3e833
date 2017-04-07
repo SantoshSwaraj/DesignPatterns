@@ -1,0 +1,20 @@
+package main.abstractModel;
+
+public class HondaCarFactory extends AbstractCarFactory {
+
+	@Override
+	public SmallCar getSmallCar() {
+		return new Brio();
+	}
+
+	@Override
+	public Sedan getSedan() {
+		return new City();
+	}
+
+	@Override
+	public MUVCar getMUV(){
+		return new Mobilio();
+	}
+
+}

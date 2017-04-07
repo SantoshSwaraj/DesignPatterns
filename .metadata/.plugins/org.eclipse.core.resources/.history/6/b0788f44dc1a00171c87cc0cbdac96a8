@@ -1,0 +1,17 @@
+package main.factory;
+
+import main.model.BlackForest;
+import main.model.Cake;
+import main.model.LitchiGateaux;
+
+public class CakeFactory {
+	public Cake createCake(String cakeName){
+		Cake cake = null;
+		if(cakeName.equals("BlackForest")){
+			cake =  new BlackForest();
+		}
+		if(cakeName.equals("LitchiGateaux")){
+			cake = new LitchiGateaux();
+		}
+	}
+}

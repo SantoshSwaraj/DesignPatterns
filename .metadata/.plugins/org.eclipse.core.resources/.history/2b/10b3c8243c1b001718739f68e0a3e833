@@ -1,0 +1,24 @@
+package car.abstractModel;
+
+import car.honda.Brio;
+import car.honda.City;
+import car.honda.Mobilio;
+
+public class HondaCarFactory extends AbstractCarFactory {
+
+	@Override
+	public SmallCar getSmallCar() {
+		return new Brio();
+	}
+
+	@Override
+	public Sedan getSedan() {
+		return new City();
+	}
+
+	@Override
+	public MUVCar getMUV(){
+		return new Mobilio();
+	}
+
+}

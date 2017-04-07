@@ -1,0 +1,7 @@
+package main.honda;
+
+import main.abstractModel.SmallCar;
+
+public class Brio extends SmallCar {
+
+}

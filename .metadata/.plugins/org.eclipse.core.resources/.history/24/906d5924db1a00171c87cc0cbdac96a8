@@ -1,0 +1,46 @@
+package main.model;
+
+public class BlueBerry extends Cake {
+	public BlueBerry(){
+		this.name="BlueBerry";
+		this.type="Ctype";
+		this.price=200;
+	}
+	
+	@Override
+	public void recipe() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void myFans() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void aboutCake() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getPrice() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+}

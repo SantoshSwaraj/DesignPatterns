@@ -1,0 +1,7 @@
+package car.abstractModel;
+
+public abstract class SmallCar implements Car {
+	private String modelName;
+	public abstract String getModelName();
+	public abstract void setModelName(String modelName);
+}

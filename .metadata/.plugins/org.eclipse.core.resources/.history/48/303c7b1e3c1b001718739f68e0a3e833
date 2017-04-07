@@ -1,0 +1,24 @@
+package car.abstractModel;
+
+import car.toyota.Altis;
+import car.toyota.Innova;
+import car.toyota.Liva;
+
+public class ToyotaCarFactory extends AbstractCarFactory {
+
+	@Override
+	public SmallCar getSmallCar() {
+		return new Liva();
+	}
+
+	@Override
+	public Sedan getSedan() {
+		return new Altis();
+	}
+
+	@Override
+	public MUVCar getMUV() {
+		return new Innova();
+	}
+
+}

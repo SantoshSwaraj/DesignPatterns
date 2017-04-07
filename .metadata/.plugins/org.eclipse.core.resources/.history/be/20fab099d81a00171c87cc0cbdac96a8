@@ -1,0 +1,12 @@
+package main.model;
+
+public abstract class Cake {
+	protected String name;
+	protected String type;
+	protected int price;
+
+	public abstract void recipe();
+	public abstract void myFans();
+	public abstract void aboutCake();
+	
+}

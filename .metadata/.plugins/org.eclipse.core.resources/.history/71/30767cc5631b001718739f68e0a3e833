@@ -1,0 +1,5 @@
+package main.singleton;
+
+public class Singleton_lazy_init {
+
+}

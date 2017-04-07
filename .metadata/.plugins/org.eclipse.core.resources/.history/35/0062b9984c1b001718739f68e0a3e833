@@ -1,0 +1,7 @@
+package car.toyota;
+
+import car.abstractModel.Sedan;
+
+public class Altis extends Sedan {
+	
+}

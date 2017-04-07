@@ -1,0 +1,19 @@
+package main.test;
+
+import java.util.Scanner;
+
+import main.factory.CakeFactory;
+import main.model.Cake;
+
+public class TestClass {
+	public static void main(String args[]){
+		Cake cake = null;
+		System.out.println("Enter your cake choice : ");
+		Scanner console = new Scanner(System.in);
+		String choice = console.next();
+		CakeFactory cakefactory = new CakeFactory();
+		cake = cakefactory.createCake("BlackForest");
+		System.out.println("Cake Price : "+cake.getPrice());
+		console.close();
+	}
+}

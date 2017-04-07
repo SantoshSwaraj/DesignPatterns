@@ -1,0 +1,24 @@
+package car.abstractModel;
+
+public abstract class AbstractCarFactory {
+	public abstract SmallCar getSmallCar();
+	public abstract Sedan getSedan();
+	public abstract MUVCar getMUV();
+	
+	public static AbstractCarFactory ofType(String manufacturerName){
+		AbstractCarFactory carFactory = null;
+		switch(manufacturerName){
+			case "Toyota":
+				carFactory = new ToyotaCarFactory();
+				break;
+			case "Honda":
+				carFactory = new HondaCarFactory();
+				break;
+				
+			default:
+				new UnsupportedOperationException(manufacturerName +"-Unknown Manufacturer");
+				
+		}
+		return carFactory;
+	}
+}

@@ -1,0 +1,5 @@
+package car.abstractModel;
+
+public abstract class Sedan implements Car {
+	private String
+}

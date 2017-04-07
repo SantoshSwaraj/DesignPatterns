@@ -1,0 +1,7 @@
+package main.honda;
+
+import main.abstractModel.Sedan;
+
+public class City extends Sedan{
+
+}

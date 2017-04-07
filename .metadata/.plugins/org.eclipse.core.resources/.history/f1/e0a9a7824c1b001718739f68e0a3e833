@@ -1,0 +1,6 @@
+package car.abstractModel;
+
+public interface Car {
+	void setModelName();
+	String getModelName();
+}

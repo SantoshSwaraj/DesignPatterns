@@ -1,0 +1,7 @@
+package car.honda;
+
+import car.abstractModel.MUVCar;
+
+public class Mobilio extends MUVCar {
+
+}

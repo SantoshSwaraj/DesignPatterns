@@ -1,0 +1,9 @@
+package car.abstractModel;
+
+public abstract class Sedan implements Car {
+	private String modelName;
+	public void getModelName(){
+		return this.modelName;
+	}
+	}
+}

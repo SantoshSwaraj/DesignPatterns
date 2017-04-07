@@ -1,0 +1,18 @@
+package car.toyota;
+
+import car.abstractModel.Sedan;
+
+public class Altis extends Sedan {
+
+	@Override
+	public void setModelName() {
+		this.modelName="Altis";
+		
+	}
+
+	@Override
+	public String getModelName() {
+		return this.modelName;
+	}
+	
+}

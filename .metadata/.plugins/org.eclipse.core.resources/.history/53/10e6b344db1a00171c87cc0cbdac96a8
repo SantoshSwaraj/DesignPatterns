@@ -1,0 +1,10 @@
+package main.model;
+
+public class BlueBerry extends Cake {
+	public BlueBerry(){
+		this.name="BlueBerry";
+		this.type="Ctype";
+		this.price=200;
+	}
+	
+}

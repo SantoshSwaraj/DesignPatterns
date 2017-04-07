@@ -1,0 +1,21 @@
+package car.test;
+
+import org.junit.Before;
+
+import car.abstractModel.AbstractCarFactory;
+import car.abstractModel.SmallCar;
+
+public class AbstractCarFactoryTest {
+	private AbstractCarFactory carFactory;
+	
+	@Before
+	public void setup(){
+		carFactory = AbstractCarFactory.ofType("Toyota");
+	}
+	
+	@org.junit.Test
+	public void Test(){
+		SmallCar smallcar = carFactory.getSmallCar();
+		System.out.println("My Car :"+smallcar.getModelName());
+	}
+}

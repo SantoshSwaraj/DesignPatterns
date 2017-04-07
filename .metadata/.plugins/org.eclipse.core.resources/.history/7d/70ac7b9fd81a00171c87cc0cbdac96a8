@@ -1,0 +1,23 @@
+package main.model;
+
+public class BlackForest extends Cake {
+
+	@Override
+	public void recipe() {
+		System.out.println("Recipe of BlackForest");
+		
+	}
+
+	@Override
+	public void myFans() {
+		System.out.println("Fans of BlackForest");
+		
+	}
+
+	@Override
+	public void aboutCake() {
+		System.out.println("About BlackForest");
+		
+	}
+
+}

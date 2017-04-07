@@ -1,0 +1,5 @@
+package car.abstractModel;
+
+public abstract class MUVCar extends Car {
+
+}

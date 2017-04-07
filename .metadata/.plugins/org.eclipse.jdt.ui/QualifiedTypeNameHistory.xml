@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="main.model.BlackForest"/>
+<fullyQualifiedTypeName name="main.model.LitchiGateaux"/>
+<fullyQualifiedTypeName name="main.model.BlueBerry"/>
+<fullyQualifiedTypeName name="main.model.Pineapple"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="main.factory.CakeFactory"/>
+<fullyQualifiedTypeName name="main.factory.Factory"/>
+<fullyQualifiedTypeName name="main.model.Cake"/>
+</qualifiedTypeNameHistroy>

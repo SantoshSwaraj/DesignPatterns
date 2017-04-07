@@ -1,0 +1,17 @@
+package main.test;
+
+import org.junit.Before;
+
+
+public class SingletonTest {
+	
+	@Before
+	public void setup(){
+		
+	}
+	
+	@org.junit.Test
+	public void Test(){
+		
+	}
+}
